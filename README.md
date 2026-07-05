@@ -3,8 +3,9 @@
 A multi-page website built with plain HTML5 and CSS, featuring dropdown navigation.
 
 ## About
-KAISA is a website designed for the Kenya AI Skilling Alliance, built as a coursework project 
-at Multimedia University of Kenya (BFA Film Production and Animation program).
+
+A clean, multi-page website for the Kenya AI Skilling Alliance, built with 
+HTML5 and CSS and featuring dropdown navigation.
 
 ## Features
 - Multi-page structure with dropdown navigation
